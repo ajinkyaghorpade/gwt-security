@@ -10,10 +10,9 @@
   <name>GWT Security Reactor</name>
 
   <properties>
-    <gwtVersion>2.4.0</gwtVersion>
+    <gwtVersion>2.5.0</gwtVersion>
 
-    <java.version>1.6</java.version>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <java.version>1.7</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
     <version.frk.spring>3.1.0.RELEASE</version.frk.spring>

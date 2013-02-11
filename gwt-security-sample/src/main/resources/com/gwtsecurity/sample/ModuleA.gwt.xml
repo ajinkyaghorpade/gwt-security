@@ -24,6 +24,7 @@
   <inherits name="com.gwtsecurity.Security" />
 
   <!-- Other module inherits                                      -->
+  <inherits name="com.google.gwt.user.RemoteServiceObfuscateTypeNames" />
 
   <!-- Specify the app entry point class.                         -->
   <entry-point class="com.gwtsecurity.sample.client.ModuleA" />
