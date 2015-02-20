@@ -1,0 +1,5 @@
+# Module moduleA
+# RPC service class, partial path of RPC policy file
+net.customware.gwt.dispatch.client.secure.SecureDispatchService, 2C6D1F0E3BDDC6650A632EDA4473E454.gwt.rpc
+com.gwtsecurity.sample.client.services.SimpleService, A5D8E8D48F7ED7F0E06B629895F15638.gwt.rpc
+com.gwtsecurity.sample.client.services.ArithmeticService, 27F34F9647C1605F31363F83809FBB52.gwt.rpc

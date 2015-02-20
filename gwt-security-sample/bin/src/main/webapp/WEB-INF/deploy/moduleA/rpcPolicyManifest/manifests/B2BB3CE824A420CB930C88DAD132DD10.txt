@@ -1,0 +1,2 @@
+serviceClass: com.gwtsecurity.sample.client.services.SimpleService
+path: A5D8E8D48F7ED7F0E06B629895F15638.gwt.rpc

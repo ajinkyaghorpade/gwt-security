@@ -1,0 +1,2 @@
+serviceClass: com.gwtsecurity.sample.client.services.ArithmeticService
+path: 27F34F9647C1605F31363F83809FBB52.gwt.rpc

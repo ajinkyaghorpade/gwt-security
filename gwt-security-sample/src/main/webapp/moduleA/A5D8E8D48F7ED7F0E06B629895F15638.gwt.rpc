@@ -1,0 +1,8 @@
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, 1, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, 2, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, 3, 4254043109
+com.gwtsecurity.sample.client.services.SimpleService, false, false, false, false, _, 2223485029
+java.lang.Exception, true, false, true, false, 4, 1920171873
+java.lang.RuntimeException, true, false, true, false, 5, 515124647
+java.lang.String, true, true, true, true, 6, 2004016611
+java.lang.Throwable, true, false, true, false, 7, 2953622131
